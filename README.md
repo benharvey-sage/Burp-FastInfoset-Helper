@@ -1,10 +1,6 @@
 <h1 align="center">FastInfoset Helper</h1>
 
 <div align="center">
-    <strong>FastInfoset Helper</strong>
-</div>
-
-<div align="center">
     A burp extension to allow for easy decoding, manipulation, and encoding of Fast Infoset data.
 </div>
 
