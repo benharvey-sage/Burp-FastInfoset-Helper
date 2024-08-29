@@ -1,4 +1,4 @@
-<h1 align="center">Offensive Security Team</h1>
+<h1 align="center">FastInfoset Helper</h1>
 
 <div align="center">
     <strong>FastInfoset Helper</strong>
